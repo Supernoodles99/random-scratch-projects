@@ -3,4 +3,4 @@
 random sb3s
 
 > [!CAUTION]
-> Use [Turbowarp](https://turbowarp.org) when loading these, because some of them use custom extensions and WILL NOT WORK in the vanilla scratch editor.
+> Use [Turbowarp](https://turbowarp.org) when loading these, because some of them might use custom extensions and may not work in the vanilla scratch editor.
